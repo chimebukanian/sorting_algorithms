@@ -1,6 +1,6 @@
 #include "sort.h"
 
-/\**
+/**
  * list_len - function returns length of list
  * @list: head of list
  *
